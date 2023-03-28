@@ -1,8 +1,8 @@
-# Template for C Projects
+# Ejemplo de desarrollo C
 
 -----
 
-This repository is a template to be used in new projects developed in C language.
+Este es un ejemplo de desarrollo en C.
 
 **Table of Contents**
 
